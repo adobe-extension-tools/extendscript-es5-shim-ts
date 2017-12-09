@@ -1,11 +1,14 @@
-# extendscript-es5-shim
+# extendscript-es5-shim-ts
+
+**NOTE: This is a fork of [extendscript-es5-shim](https://github.com/ExtendScript/extendscript-es5-shim). I have only added the types and a JSON shim**
+
 A collection of ES5 shims for polyfiling Exendscript (for es6 shims take a look at https://github.com/ExtendScript/extendscript-es6-shim)
 
 
 ## Installation  
 
     npm init -y
-    npm install extendscript-es5-shim
+    npm install extendscript-es5-shim-ts
 
 ## Usage
 
